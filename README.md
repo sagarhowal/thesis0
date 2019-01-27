@@ -1,4 +1,4 @@
-# thesis0
+# Forecasting Electricity Consumption and Clustering Usage Patterns of Homes in Ireland
 Thesis - Direct Upload
 
 
