@@ -20,6 +20,6 @@ of consumers in Ireland. *Data Files are not included in this repository* due to
 
 
 ## Results: 
-- Random Forest + ARIMA gave highest accuracy for Forecasting aggregated load. 
+- Random Forest + ARIMA gave Lowest MAPE for Forecasting aggregated load. 
 
 - Clustering Analysis could not be completed due to high volume of data and lack of computational power available. 
